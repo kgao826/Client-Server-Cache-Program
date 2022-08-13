@@ -1,0 +1,44 @@
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\bin\Debug\net5.0-windows\Cache.exe
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\bin\Debug\net5.0-windows\Cache.deps.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\bin\Debug\net5.0-windows\Cache.runtimeconfig.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\bin\Debug\net5.0-windows\Cache.runtimeconfig.dev.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\bin\Debug\net5.0-windows\Cache.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\bin\Debug\net5.0-windows\ref\Cache.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\bin\Debug\net5.0-windows\Cache.pdb
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.csproj.AssemblyReference.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache_MarkupCompile.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache_MarkupCompile.lref
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.g.resources
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.AssemblyInfoInputs.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.AssemblyInfo.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\ref\Cache.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.pdb
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Cache\obj\Debug\net5.0-windows\Cache.genruntimeconfig.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\bin\Debug\net5.0-windows\Cache.exe
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\bin\Debug\net5.0-windows\Cache.deps.json
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\bin\Debug\net5.0-windows\Cache.runtimeconfig.json
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\bin\Debug\net5.0-windows\Cache.runtimeconfig.dev.json
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\bin\Debug\net5.0-windows\Cache.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\bin\Debug\net5.0-windows\ref\Cache.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\bin\Debug\net5.0-windows\Cache.pdb
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.csproj.AssemblyReference.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache_MarkupCompile.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache_MarkupCompile.lref
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.g.resources
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.AssemblyInfoInputs.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.AssemblyInfo.cs
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\ref\Cache.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.pdb
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Cache\obj\Debug\net5.0-windows\Cache.genruntimeconfig.cache

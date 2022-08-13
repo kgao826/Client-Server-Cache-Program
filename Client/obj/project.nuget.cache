@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "70INZaiHPy0nkut9+DfUAXMk2epFxFOwFkjCz2v2kxkgV9GYtmXWURLjTha9Ml3f2fZtn4U3j99ulJX+q0axgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaok1\\Documents\\GitHub\\Client-Server-Cache-Program\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaok1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

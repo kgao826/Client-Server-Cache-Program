@@ -1,0 +1,29 @@
+﻿<Window x:Class="Cache.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Cache"
+        mc:Ignorable="d"
+        Title="Cache" Height="620" Width="800">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row = "0">
+            <Bold>Files in the Cache</Bold>
+        </Label>
+        <ListBox Grid.Row = "1" x:Name="CachedFileListBox" Margin="10" Height="200"></ListBox>
+        <Button Grid.Row = "2" x:Name="ClearButton" Margin="10, 10, 420, 10" Height="30" Click="ClearButton_Click">Clear</Button>
+        <Button Grid.Row = "2" x:Name="UpdateButton" Margin="420, 10, 10, 10" Height="30" Click="UpdateButton_Click">Update</Button>
+        <Label Grid.Row = "3">
+            <Bold>Cache Log</Bold>
+        </Label>
+        <TextBox Grid.Row = "4" x:Name="CacheLogBox" IsReadOnly="True" Margin="10" Height="200"></TextBox>
+    </Grid>
+</Window>

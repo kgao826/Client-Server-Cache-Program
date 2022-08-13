@@ -1,0 +1,31 @@
+﻿<Window x:Class="Client.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client"
+        mc:Ignorable="d"
+        Title="Client" Height="620" Width="800">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto" />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row = "0">
+            <Bold>Files Available to Download</Bold>
+        </Label>
+        <ListBox Grid.Row = "1" x:Name="filenamesListBox" Margin="10" Height="200"></ListBox>
+        <Button Grid.Row = "2" x:Name="downloadButton" Margin="10, 10, 420, 10" Height="30" Click="DownloadButton_Click">Download</Button>
+        <Button Grid.Row = "2" x:Name="viewButton" Margin="420, 10, 10, 10" Height="30" Click="ViewButton_Click">View</Button>
+        <Label Grid.Row = "3">
+            <Bold>File Viewer</Bold>
+        </Label>
+        <TextBox x:Name="CurrentFileName" IsReadOnly="True" Grid.Row = "4" Margin="10">Current File: None</TextBox>
+        <TextBox Grid.Row = "5" x:Name="ViewBox" IsReadOnly="True" Margin="10" Height="180">Please select a file and click "view"</TextBox>
+    </Grid>
+</Window>

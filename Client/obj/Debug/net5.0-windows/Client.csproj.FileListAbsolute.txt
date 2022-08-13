@@ -1,0 +1,66 @@
+C:\Users\Gaok1\Desktop\kgao826\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\Gaok1\Desktop\kgao826\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\Gaok1\Desktop\kgao826\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\Gaok1\Desktop\kgao826\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\Gaok1\Desktop\kgao826\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\Gaok1\Desktop\kgao826\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Gaok1\Desktop\kgao826\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client_MarkupCompile.cache
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client_MarkupCompile.lref
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.g.resources
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\Gaok1\Desktop\kgao826\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client_MarkupCompile.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client_MarkupCompile.lref
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.g.resources
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\Gaok1\OneDrive\University\2021 S2\COMPSCI 711\A5\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\bin\Debug\net5.0-windows\Client.exe
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\bin\Debug\net5.0-windows\Client.deps.json
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.json
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\bin\Debug\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\bin\Debug\net5.0-windows\Client.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\bin\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\bin\Debug\net5.0-windows\Client.pdb
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client_MarkupCompile.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client_MarkupCompile.lref
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.g.resources
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\ref\Client.dll
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.pdb
+C:\Users\Gaok1\Documents\GitHub\Client-Server-Cache-Program\Client\obj\Debug\net5.0-windows\Client.genruntimeconfig.cache
